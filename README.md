@@ -14,9 +14,9 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 • Projects
 
-  ◦ Marine-Power-Generators
+◦ *Marine-Power-Generators*
   
-  ◦ Control-System-Analysis
+◦ *Control-System-Analysis*
 
 • Disclaimer
 
