@@ -28,7 +28,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 • Undergraduate: Naval Architecture & Marine Engineering
 
-• Class: 2015-2023
+• Class: Entrance to department in 2015
 
 • Required ECTS points: 300
 
