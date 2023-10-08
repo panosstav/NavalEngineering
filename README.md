@@ -7,21 +7,33 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 ## Table of Contents
 
 • Diploma in Naval Architecture & Marine Engineering
+
 • Introduction
+
 • Navigation
+
 • Projects
+
     ▪ Marine-Power-Generators
+    
     ▪ Control-System-Analysis
+
 • Disclaimer
+
 • Contact
 
 ## Diploma in Naval Architecture & Marine Engineering
 
 • University: National Technical University of Athens
+
 • Undergraduate: Naval Architecture & Marine Engineering
+
 • Class: 2015-2023
+
 • Required ECTS points: 300
+
 • Structure: 62 courses & diploma thesis
+
 • Website: http://www.naval.ntua.gr/
 
 ## Navigation
