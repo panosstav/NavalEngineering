@@ -1,6 +1,6 @@
 # Diploma-Shipbuilding-NTUA
 
-🎓 ## School of Naval Architecture & Marine Engineering Projects
+## 🎓 School of Naval Architecture & Marine Engineering Projects
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture & Marine Engineering. This repository serves as a portfolio of my work in this field.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Disclaimer
 - Contact
 
-## Diploma in Naval Architecture & Marine Engineering
+## 🚢 Diploma in Naval Architecture & Marine Engineering
 
 - University: National Technical University of Athens
 - Undergraduate: Naval Architecture & Marine Engineering
@@ -24,7 +24,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Structure: 62 courses & diploma thesis
 - Website: http://www.naval.ntua.gr/
 
-## Navigation
+## 🗃️ Navigation
 
 To explore the projects, you can navigate through the folders corresponding to each course. Each folder is typically structured as follows:
 
@@ -40,7 +40,7 @@ Please note that this repository is intended for educational and portfolio purpo
 
 The author of this repository is not responsible for any academic issues that may arise from the use of the materials contained herein. It's important to adhere to the academic integrity policies and guidelines of your own institution when using this repository as a reference. Copying or submitting any part of this work as your own without proper attribution may violate academic integrity rules and regulations.
 
-## Contact
+## 💬 Contact
 
 If you have any questions or would like to connect with me, feel free to reach out:
 
