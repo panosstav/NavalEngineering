@@ -4,7 +4,7 @@
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture & Marine Engineering. This repository serves as a portfolio of my work in this field.
 
-## Table of Contents
+## 🗃️ Table of Contents
 
 - Diploma in Naval Architecture & Marine Engineering
 - Introduction
@@ -24,7 +24,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Structure: 62 courses & diploma thesis
 - Website: http://www.naval.ntua.gr/
 
-## 🗃️ Navigation
+## 🧭 Navigation
 
 To explore the projects, you can navigate through the folders corresponding to each course. Each folder is typically structured as follows:
 
@@ -34,7 +34,7 @@ To explore the projects, you can navigate through the folders corresponding to e
 
 The README.md also contains information regarding the course.
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 Please note that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a data scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
 
