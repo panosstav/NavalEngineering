@@ -55,5 +55,7 @@ The author of this repository is not responsible for any academic issues that ma
 If you have any questions or would like to connect with me, feel free to reach out:
 
 Email: panagiwtisstavridis@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/panagiotis-stavridis/
+
 Thank you for visiting my portfolio, and I hope you find my projects interesting and informative.
