@@ -6,7 +6,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 ## 🗃️ Table of Contents
 
-- [Diploma in Naval Architecture & Marine Engineering]
+- [Diploma in Naval Architecture & Marine Engineering](diploma-in-naval-architecture-and-marine-engineering)
 - Introduction
 - Navigation
 - Projects
