@@ -46,6 +46,6 @@ If you have any questions or would like to connect with me, feel free to reach o
 
 Email: panagiwtisstavridis@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/panagiotis-stavridis/
+LinkedIn: [panagiotis-stavridis](https://www.linkedin.com/in/panagiotis-stavridis/)
 
 Thank you for visiting my portfolio, and I hope you find my projects interesting and informative.
