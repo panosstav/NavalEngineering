@@ -6,14 +6,14 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 ## 🗃️ Table of Contents
 
-- [Diploma in Naval Architecture & Marine Engineering](diploma-in-naval-architecture-and-marine-engineering)
-- [Introduction](introduction)
-- [Navigation](navigation)
-- [Projects](projects)
-  * [Marine-Power-Generators](marine-power-generators)
-  * [Control-System-Analysis](control-system-analysis)
-- [Disclaimer](disclaimer)
-- [Contact](contact)
+- [Diploma in Naval Architecture & Marine Engineering](#diploma-in-naval-architecture-and-marine-engineering)
+- [Introduction](#introduction)
+- [Navigation](#navigation)
+- [Projects](#projects)
+  * [Marine-Power-Generators](#marine-power-generators)
+  * [Control-System-Analysis](#ontrol-system-analysis)
+- [Disclaimer](#disclaimer)
+- [Contact](#contact)
 
 ## 🚢 Diploma in Naval Architecture & Marine Engineering
 
@@ -33,11 +33,7 @@ To explore the projects, you can navigate through the folders corresponding to e
 ```README.md```: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
 
 The ```README.md``` also contains information regarding the course.
-
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>  
-
+ 
 ## ⚖️ Disclaimer
 
 Please note that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
