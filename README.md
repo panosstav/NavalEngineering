@@ -43,6 +43,7 @@ To explore the projects, you can navigate through the folders corresponding to e
 {Project_Name or Assessment_id}/: Contains the project files, including code, documentation, and any additional resources.
 
 README.md: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
+
 The README.md also contains information regarding the course.
 
 ## Disclaimer
