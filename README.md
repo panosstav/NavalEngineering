@@ -13,7 +13,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
   * [Marine-Power-Generators](marine-power-generators)
   * [Control-System-Analysis](control-system-analysis)
 - [Disclaimer](disclaimer)
-- [Contact](contact)
+- [Contact]
 
 ## 🚢 Diploma in Naval Architecture & Marine Engineering
 
