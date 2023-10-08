@@ -1,6 +1,6 @@
 # Diploma-Shipbuilding-NTUA
 
-## School of Naval Architecture & Marine Engineering Projects
+🎓 ## School of Naval Architecture & Marine Engineering Projects
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture & Marine Engineering. This repository serves as a portfolio of my work in this field.
 
