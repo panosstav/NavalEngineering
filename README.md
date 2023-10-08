@@ -40,9 +40,9 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 To explore the projects, you can navigate through the folders corresponding to each course. Each folder is typically structured as follows:
 
-{Project_Name or Assessment_id}/: Contains the project files, including code, documentation, and any additional resources.
+```{Project_Name or Assessment_id}/```: Contains the project files, including code, documentation, and any additional resources.
 
-README.md: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
+```README.md```: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
 
 The README.md also contains information regarding the course.
 
