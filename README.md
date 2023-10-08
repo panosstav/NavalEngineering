@@ -10,8 +10,8 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Introduction
 - Navigation
 - Projects
-* Marine-Power-Generators
-* Control-System-Analysis
+  * Marine-Power-Generators
+  * Control-System-Analysis
 - Disclaimer
 - Contact
 
