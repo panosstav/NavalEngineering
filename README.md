@@ -2,7 +2,7 @@
 
 ## 🎓 School of Naval Architecture & Marine Engineering Projects
 
-Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture & Marine Engineering. This repository serves as a portfolio of my work in this field.
+Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture and Marine Engineering. This repository serves as a portfolio of my work in this field.
 
 ## 🗃️ Table of Contents
 
@@ -22,7 +22,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Class: entrance to the department in 2015
 - Required ECTS points: 300
 - Structure: 62 courses & diploma thesis
-- Website: http://www.naval.ntua.gr/
+- Website: [naval.ntua.gr/](http://www.naval.ntua.gr/)
 
 ## 🧭 Navigation
 
