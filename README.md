@@ -22,7 +22,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Class: entrance to the department in 2015
 - Required ECTS points: 300
 - Structure: 62 courses & diploma thesis
-- Website: [naval.ntua.gr/](http://www.naval.ntua.gr/)
+- Website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 
 ## 🧭 Navigation
 
