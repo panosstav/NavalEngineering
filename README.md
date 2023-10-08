@@ -36,7 +36,7 @@ The README.md also contains information regarding the course.
 
 ## ⚖️ Disclaimer
 
-Please note that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a data scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
+Please note that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
 
 The author of this repository is not responsible for any academic issues that may arise from the use of the materials contained herein. It's important to adhere to the academic integrity policies and guidelines of your own institution when using this repository as a reference. Copying or submitting any part of this work as your own without proper attribution may violate academic integrity rules and regulations.
 
