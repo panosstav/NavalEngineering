@@ -34,6 +34,10 @@ To explore the projects, you can navigate through the folders corresponding to e
 
 The ```README.md``` also contains information regarding the course.
 
+<p align="right">
+    <a href="#table-of-contents">Back to top</a>  
+</p>  
+
 ## ⚖️ Disclaimer
 
 Please note that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
