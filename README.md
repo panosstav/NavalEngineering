@@ -4,6 +4,8 @@
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. This repository serves as a portfolio of my work in this field.
 
+--- 
+
 ## 🗃️ Table of Contents
 
 - [Diploma in Naval Architecture & Marine Engineering](#diploma-in-naval-architecture-&-marine-engineering)
@@ -14,6 +16,8 @@ Welcome to my GitHub repository where I showcase the projects I completed during
   * [Control-System-Analysis](#control-system-analysis)
 - [Disclaimer](#disclaimer)
 - [Contact](#contact)
+
+--- 
 
 ## 🚢 Diploma in Naval Architecture & Marine Engineering
 
