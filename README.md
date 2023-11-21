@@ -28,6 +28,8 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Structure: 62 courses & diploma thesis
 - Website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 
+--- 
+
 ## 🧭 Navigation
 
 To explore the projects, you can navigate through the folders corresponding to each course. Each folder is typically structured as follows:
@@ -37,6 +39,8 @@ To explore the projects, you can navigate through the folders corresponding to e
 ```README.md```: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
 
 The ```README.md``` also contains information regarding the course.
+
+--- 
  
 ## ⚖️ Disclaimer
 
@@ -56,6 +60,8 @@ By using or accessing the information or code in this GitHub repository, you agr
 Please understand that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
 
 The author of this repository is not responsible for any academic issues that may arise from the use of the materials contained herein. It's important to adhere to the academic integrity policies and guidelines of your own institution when using this repository as a reference. Copying or submitting any part of this work as your own without proper attribution may violate academic integrity rules and regulations.
+
+--- 
 
 ## 💬 Contact
 
