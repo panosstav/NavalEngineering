@@ -28,10 +28,6 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Structure: 62 courses & diploma thesis
 - Website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p> 
-
 --- 
 
 ## 🧭 Navigation
@@ -43,10 +39,6 @@ To explore the projects, you can navigate through the folders corresponding to e
 ```README.md```: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
 
 The ```README.md``` also contains information regarding the course.
-
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>  
 
 --- 
  
@@ -69,10 +61,6 @@ Please understand that this repository is intended for educational and portfolio
 
 The author of this repository is not responsible for any academic issues that may arise from the use of the materials contained herein. It's important to adhere to the academic integrity policies and guidelines of your own institution when using this repository as a reference. Copying or submitting any part of this work as your own without proper attribution may violate academic integrity rules and regulations.
 
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>  
-
 --- 
 
 ## 💬 Contact
@@ -83,8 +71,4 @@ Email: panagiwtisstavridis@gmail.com
 
 LinkedIn: [panagiotis-stavridis](https://www.linkedin.com/in/panagiotis-stavridis/)
 
-Thank you for visiting my portfolio, and I hope you find my projects interesting and informative.
-
-<p align="right">
-    <a href="#table-of-contents">Back to top</a>  
-</p>  
+Thank you for visiting my portfolio, and I hope you find my projects interesting and informative.  
