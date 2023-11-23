@@ -1,4 +1,4 @@
-# Diploma-Shipbuilding-NTUA
+# Diploma Shipbuilding NTUA
 
 ## 🎓 School of Naval Architecture & Marine Engineering Projects
 
