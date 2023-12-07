@@ -1,6 +1,6 @@
-# ⚡️ Marine Power Generator
+# Marine Power Generator
 
-👨‍💻 MATLAB project
+MATLAB project
 
 ## Electrical Engineering Calculations for a three-phase Marine Power Generator
 
