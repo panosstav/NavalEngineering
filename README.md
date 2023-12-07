@@ -6,7 +6,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 --- 
 
-## 🗃️ Table of Contents
+## Table of Contents
 
 - [School of Naval Architecture & Marine Engineering Projects](#School-of-Naval-Architecture-&-Marine-Engineering-Projects)
 - [Table of Contents](#Table-of-Contents)
