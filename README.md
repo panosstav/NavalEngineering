@@ -8,14 +8,16 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 ## 🗃️ Table of Contents
 
-- Diploma in Naval Architecture & Marine Engineering
-- Introduction
-- Navigation
-- Projects
-  * Marine-Power-Generators
-  * Control-System-Analysis
-- Disclaimer
-- Contact
+- [School of Naval Architecture & Marine Engineering Projects]
+- [Table of Contents]
+- [Diploma in Naval Architecture & Marine Engineering]
+- [Introduction]
+- [Navigation]
+- [Projects]
+  * [Marine-Power-Generators]
+  * [Control-System-Analysis]
+- [Disclaimer]
+- [Contact]
 
 --- 
 
