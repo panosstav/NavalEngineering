@@ -48,7 +48,7 @@ In this section, some details about the timeline of the projects are provided.
 
 #### Marine-Power-Generators
 
-2nd Year/2nd Semester
+2nd Year/2nd Quarter (4th Semester)
 
 | Course                                                                                                                      | Course type | 
 |-----------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -56,7 +56,7 @@ In this section, some details about the timeline of the projects are provided.
 
 #### Control-System-Analysis
 
-3rd Year/3nd Semester
+3rd Year/2nd Quarter (6th Semester)
 
 | Course                                                                | Course type | 
 |-----------------------------------------------------------------------|-------------|
