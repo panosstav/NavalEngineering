@@ -30,6 +30,10 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - Structure: 62 courses & diploma thesis
 - Website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 
+<p align="right">
+    <a href="#table-of-contents">Back to top</a>  
+</p>
+
 --- 
 
 ## Navigation
