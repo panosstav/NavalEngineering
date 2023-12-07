@@ -1,6 +1,6 @@
-# 🦾 Control System Analysis
+# Control System Analysis
 
-👨‍💻 MATLAB/Simulink project
+MATLAB/Simulink project
 
 ## Control Systems & Dynamic Responses
 
@@ -9,7 +9,7 @@ This project was submitted for the requirements of the course: "Introduction to 
 The objective of this project is to design a controller and an observer in MATLAB and simulate both of them in Simulink.
 Each subtopic appears to have its own set of calculations, simulations, and plots.
 
-## ⚙️ Usage
+## Usage
 
 The MATLAB code in this repository can be used for:
 - Simulating control system behavior
