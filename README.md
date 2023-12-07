@@ -42,6 +42,26 @@ To explore the projects, you can navigate through the folders corresponding to e
 
 The ```README.md``` also contains information regarding the course.
 
+### Projects
+
+In this section, some details about the timeline of the projects are provided.
+
+#### Marine-Power-Generators
+
+2nd Year/2nd Semester
+
+| Course                                                                                                                      | Course type | 
+|-----------------------------------------------------------------------------------------------------------------------------|-------------|
+| Electrotechnical Applications & Electrical Laboratory for Naval Architects and Marine Engineers                             | Core        | 
+
+#### Control-System-Analysis
+
+3rd Year/3nd Semester
+
+| Course                                                                | Course type | 
+|-----------------------------------------------------------------------|-------------|
+| Introduction to Automatic Control Systems                             | Core        | 
+
 --- 
  
 ## Disclaimer
