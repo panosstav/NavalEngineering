@@ -21,7 +21,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 --- 
 
-## 🚢 Diploma in Naval Architecture & Marine Engineering
+## Diploma in Naval Architecture & Marine Engineering
 
 - University: National Technical University of Athens
 - Undergraduate: Naval Architecture & Marine Engineering
@@ -32,7 +32,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 --- 
 
-## 🧭 Navigation
+## Navigation
 
 To explore the projects, you can navigate through the folders corresponding to each course. Each folder is typically structured as follows:
 
