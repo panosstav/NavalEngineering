@@ -44,7 +44,7 @@ The ```README.md``` also contains information regarding the course.
 
 --- 
  
-## ⚖️ Disclaimer
+## Disclaimer
 
 The information provided in this GitHub repository and associated documentation is for general informational purposes only. While every effort has been made to ensure the accuracy and completeness of the information presented, it should not be construed as professional advice or guidance for specific situations.
 
@@ -65,7 +65,7 @@ The author of this repository is not responsible for any academic issues that ma
 
 --- 
 
-## 💬 Contact
+## Contact
 
 If you have any questions or would like to connect with me, feel free to reach out:
 
