@@ -11,7 +11,6 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [School of Naval Architecture & Marine Engineering Projects](#School-of-Naval-Architecture-&-Marine-Engineering-Projects)
 - [Table of Contents](#Table-of-Contents)
 - [Diploma in Naval Architecture & Marine Engineering](#Diploma-in-Naval-Architecture-&-Marine-Engineering)
-- [Introduction](#Introduction)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
     + [Marine-Power-Generators](#Marine-Power-Generators)
