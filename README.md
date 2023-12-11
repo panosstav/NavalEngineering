@@ -13,8 +13,8 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
-    + [Marine-Power-Generators](#Marine-Power-Generators)
-    + [Control-System-Analysis](#Control-System-Analysis)
+    + [MarinePowerGenerators](#Marine-Power-Generators)
+    + [ControlSystemAnalysis](#Control-System-Analysis)
 - [Disclaimer](#Disclaimer)
 - [Contact](#Contact)
 
@@ -45,17 +45,17 @@ The ```README.md``` also contains information regarding the course.
 
 In this section, some details about the timeline of the projects are provided.
 
-#### Marine-Power-Generators
+#### MarinePowerGenerators
 
-2nd Year/Spring Period (4th Semester)
+Integrated in 2nd Year/Spring Period (4th Semester) course
 
 | Course                                                                                                                      | Course type | 
 |-----------------------------------------------------------------------------------------------------------------------------|-------------|
 | Electrotechnical Applications & Electrical Laboratory for Naval Architects and Marine Engineers                             | Core        | 
 
-#### Control-System-Analysis
+#### ControlSystemAnalysis
 
-3rd Year/Spring Period (6th Semester)
+Integrated in 3rd Year/Spring Period (6th Semester) course
 
 | Course                                                                | Course type | 
 |-----------------------------------------------------------------------|-------------|
