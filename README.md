@@ -13,8 +13,8 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
-    + [MarinePowerGenerators](#Marine-Power-Generators)
-    + [ControlSystemAnalysis](#Control-System-Analysis)
+    + [MarinePowerGenerators](#MarinePowerGenerators)
+    + [ControlSystemAnalysis](#ControlSystemAnalysis)
 - [Disclaimer](#Disclaimer)
 - [Contact](#Contact)
 
