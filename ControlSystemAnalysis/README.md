@@ -9,6 +9,9 @@ This project was submitted for the requirements of the course: "Introduction to 
 The objective of this project is to design a controller and an observer in MATLAB and simulate both of them in Simulink.
 Each subtopic appears to have its own set of calculations, simulations, and plots.
 
+![download](https://github.com/panosstav/DiplomaShipbuildingNTUA/assets/143627430/7b8ca6e1-39d4-4f88-8338-7a146fc9c511)
+
+
 ## Usage
 
 The MATLAB code in this repository can be used for:
