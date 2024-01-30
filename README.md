@@ -96,7 +96,7 @@ The author of this repository is not responsible for any academic issues that ma
 
 If you have any questions or would like to connect with me, feel free to reach out:
 
-Email: panagiwtisstavridis@gmail.com
+e-mail: panagiwtisstavridis@gmail.com
 
 LinkedIn: [panagiotis-stavridis](https://www.linkedin.com/in/panagiotis-stavridis/)
 
