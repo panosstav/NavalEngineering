@@ -4,7 +4,7 @@ MATLAB/Simulink project
 
 ## Control Systems & Dynamic Responses
 
-This project was submitted for the requirements of the course: "Introduction to Automatic Control Systems" (8090) of the School of Naval Architecture & Marine Engineering at the National Technical University of Athens.
+This project was submitted for the requirements of the course: "Introduction to Automatic Control Systems" (8090) of the School of Naval Architecture and Marine Engineering at the National Technical University of Athens.
 
 The objective of this project is to design a controller and an observer in MATLAB and simulate both of them in Simulink.
 Each subtopic appears to have its own set of calculations, simulations, and plots.
