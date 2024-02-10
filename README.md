@@ -51,7 +51,7 @@ Integrated in 2nd Year/Spring Period (4th Semester) course
 
 | Course                                                                                                                      | Course type | 
 |-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| Electrotechnical Applications & Electrical Laboratory for Naval Architects and Marine Engineers                             | Core        | 
+| Electrotechnical Applications and Electrical Laboratory for Naval Architects and Marine Engineers                             | Core        | 
 
 #### ControlSystemAnalysis
 
