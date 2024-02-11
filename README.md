@@ -13,6 +13,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
+    + [MathCodes](#MathCodes)
     + [MarinePowerGenerators](#MarinePowerGenerators)
     + [ControlSystemAnalysis](#ControlSystemAnalysis)
 - [Disclaimer](#Disclaimer)
@@ -45,13 +46,21 @@ The ```README.md``` also contains information regarding the course.
 
 In this section, some details about the timeline of the projects are provided.
 
+#### MathCodes
+
+Integrated in 1nd Year/Winter Period (1st Semester) course
+
+| Course                                                             | Course type | 
+|--------------------------------------------------------------------|-------------|
+| Programming using MATLAB                                           | Core        | 
+
 #### MarinePowerGenerators
 
 Integrated in 2nd Year/Spring Period (4th Semester) course
 
 | Course                                                                                                                      | Course type | 
 |-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| Electrotechnical Applications and Electrical Laboratory for Naval Architects and Marine Engineers                             | Core        | 
+| Electrotechnical Applications and Electrical Laboratory for Naval Architects and Marine Engineers                           | Core        | 
 
 #### ControlSystemAnalysis
 
