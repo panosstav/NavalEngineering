@@ -88,15 +88,6 @@ The owner of this GitHub repository will not be liable for any errors or omissio
 
 Please note that information in the field of Naval Architecture & Marine Engineering, like many technical fields, may change over time, and it is essential to verify the accuracy and applicability of any information or code presented here in the context of current industry standards and best practices.
 
-This GitHub repository may include links to external websites or resources; these links are provided for convenience and do not signify endorsement of the content or the views expressed therein.
-
-Any views or opinions expressed in this GitHub repository are solely those of the author and do not necessarily represent the views or opinions of any affiliated organizations, institutions, or employers.
-
-By using or accessing the information or code in this GitHub repository, you agree to and accept this disclaimer in full.
-Please understand that this repository is intended for educational and portfolio purposes only. It represents my progress and development as a scientist during my studies. Some projects may include code or solutions provided as part of the course materials, while others may involve collaborative work with fellow students or guidance from instructors.
-
-The author of this repository is not responsible for any academic issues that may arise from the use of the materials contained herein. It's important to adhere to the academic integrity policies and guidelines of your own institution when using this repository as a reference. Copying or submitting any part of this work as your own without proper attribution may violate academic integrity rules and regulations.
-
 <p align="right">
     <a href="#table-of-contents">Back to top</a>  
 </p>
@@ -105,11 +96,7 @@ The author of this repository is not responsible for any academic issues that ma
 
 ## Contact
 
-If you have any questions or would like to connect with me, feel free to reach out:
-
-e-mail: panagiwtisstavridis@gmail.com
-
-LinkedIn: [panagiotis-stavridis](https://www.linkedin.com/in/panagiotis-stavridis/)
+If you have any questions or would like to connect with me, feel free to reach out.
 
 Thank you for visiting my portfolio, and I hope you find my projects interesting and informative.  
 
