@@ -4,6 +4,8 @@
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. This repository serves as a portfolio of my work in this field.
 
+![download](https://github.com/panosstav/MarineEngineering/assets/143627430/5a131fc6-1068-44c0-b1f4-565db48431f3)
+
 --- 
 
 ## Table of Contents
