@@ -15,7 +15,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
-    + [CodesMATLAB](#CodesMATLAB)
+    + [CodesUsingMATLAB](#CodesUsingMATLAB)
     + [MarinePowerGenerators](#MarinePowerGenerators)
     + [ControlSystemAnalysis](#ControlSystemAnalysis)
     + [DGsFuelOilConsumption](#DGsFuelOilConsumption)
@@ -49,7 +49,7 @@ The ```README.md``` also contains information regarding the course.
 
 In this section, some details about the timeline of the projects are provided.
 
-#### CodesMATLAB
+#### CodesUsingMATLAB
 
 Integrated in 1nd Year/Winter Period (1st Semester) course
 
