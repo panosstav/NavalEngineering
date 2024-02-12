@@ -43,7 +43,7 @@ To explore the projects, you can navigate through the folders corresponding to e
 
 ```README.md```: Provides a brief overview of the project, its objectives, and instructions for running or replicating the analysis (if applicable).
 
-The ```README.md``` also contains information regarding the course.
+The ```README.md``` also contains information regarding the course or research.
 
 ### Projects
 
