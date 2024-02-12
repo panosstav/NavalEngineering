@@ -1,8 +1,8 @@
-# Operational Assessment of Marine Diesel Generators using Data
+# DGs Fuel Oil Consumption
 
 Partially Minitab/MATLAB project
 
-## Introduction
+## Operational Assessment of Marine Diesel Generators using Data
 
 This project was submitted for the requirements of research carried out in the Ship Design Laboratory of the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. The objective of this project is presented in the "Abstract" section.
 
