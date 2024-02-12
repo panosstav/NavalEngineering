@@ -18,6 +18,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
     + [CodesMATLAB](#CodesMATLAB)
     + [MarinePowerGenerators](#MarinePowerGenerators)
     + [ControlSystemAnalysis](#ControlSystemAnalysis)
+    + [DGsFuelOilConsumption](#DGsFuelOilConsumption)
 - [Disclaimer](#Disclaimer)
 - [Contact](#Contact)
 
