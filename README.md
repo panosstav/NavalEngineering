@@ -1,6 +1,6 @@
 # Diploma in Naval Architecture and Marine Engineering at NTUA
 
-## School of Naval Architecture and Marine Engineering Projects
+## School of Naval Architecture and Marine Engineering Coding Projects
 
 Welcome to my GitHub repository where I showcase the projects I completed during my time at the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. This repository serves as a portfolio of my work in this field.
 
