@@ -1,4 +1,8 @@
-# Mathematical Codes using MATLAB
+Codes using MATLAB
+
+MATLAB projects
+
+## Mathematical Codes using MATLAB
 
 This repository contains MATLAB scripts and functions for solving various mathematical problems. Each script or function targets a specific problem or set of related problems. These problems were solved for the requirements of the course "Programming using MATLAB" (8010) of the School of Naval Architecture and Marine Engineering at the National Technical University of Athens.
 
