@@ -1,5 +1,5 @@
 # Diploma in Naval Architecture and Marine Engineering
-National Technical University of Athens  (NTUA)
+Engineering degree at National Technical University of Athens  (NTUA)
 
 ## School of Naval Architecture and Marine Engineering Coding Projects
 
