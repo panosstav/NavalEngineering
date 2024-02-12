@@ -96,7 +96,7 @@ The owner of this GitHub repository makes no representations or warranties of an
 
 The owner of this GitHub repository will not be liable for any errors or omissions in this information, for any losses, injuries, or damages arising from its display or use, or from any access to, use, or reliance upon the content provided.
 
-Please note that information in the field of Naval Architecture & Marine Engineering, like many technical fields, may change over time, and it is essential to verify the accuracy and applicability of any information or code presented here in the context of current industry standards and best practices.
+Please note that information in the field of Naval Architecture and Marine Engineering, like many technical fields, may change over time, and it is essential to verify the accuracy and applicability of any information or code presented here in the context of current industry standards and best practices.
 
 <p align="right">
     <a href="#table-of-contents">Back to top</a>  
