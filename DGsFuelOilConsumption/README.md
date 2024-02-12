@@ -18,4 +18,4 @@ The repository contains:
 - The Minitab files, which the correlation of parameters governing the operation of the diesel generators of a large containership belonging to a Greek shipping company
 - The MATLAB code snippets used in the diploma thesis
 
-Thesis URL: [DigitalLibraryNTUA](#https://dspace.lib.ntua.gr/xmlui/handle/123456789/58117)
+The diploma thesis URL is the following link: [Link](https://dspace.lib.ntua.gr/xmlui/handle/123456789/58117)
