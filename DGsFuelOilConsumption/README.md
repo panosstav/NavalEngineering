@@ -1,6 +1,6 @@
 # Operational Assessment of Marine Diesel Generators using Data
 
-Minitab/MATLAB
+Partially Minitab/MATLAB project
 
 ## Introduction
 
