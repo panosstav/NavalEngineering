@@ -6,7 +6,7 @@ Minitab/MATLAB
 
 This project was submitted for the requirements of research carried out in the Ship Design Laboratory of the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. The objective of this project is presented in the "Abstract" section.
 
-![download](https://github.com/panosstav/MarineEngineering/assets/143627430/4079ae52-e397-49ff-9540-e11c03ebcf58)
+![Big_Data](https://github.com/panosstav/MarineEngineering/assets/143627430/96550590-2b26-4293-a537-a69cc889fb82)
 
 ## Abstract
 
