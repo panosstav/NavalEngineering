@@ -10,7 +10,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 
 ## Table of Contents
 
-- [School of Naval Architecture and Marine Engineering Projects](#School-of-Naval-Architecture-and-Marine-Engineering-Projects)
+- [School of Naval Architecture and Marine Engineering Coding Projects](#School-of-Naval-Architecture-and-Marine-Engineering-Coding-Projects)
 - [Table of Contents](#Table-of-Contents)
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
