@@ -15,7 +15,7 @@ Welcome to my GitHub repository where I showcase the projects I completed during
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
   * [Projects](#Projects)
-    + [MathCodes](#MathCodes)
+    + [CodesMATLAB](#CodesMATLAB)
     + [MarinePowerGenerators](#MarinePowerGenerators)
     + [ControlSystemAnalysis](#ControlSystemAnalysis)
 - [Disclaimer](#Disclaimer)
@@ -48,7 +48,7 @@ The ```README.md``` also contains information regarding the course.
 
 In this section, some details about the timeline of the projects are provided.
 
-#### MathCodes
+#### CodesMATLAB
 
 Integrated in 1nd Year/Winter Period (1st Semester) course
 
@@ -71,6 +71,14 @@ Integrated in 3rd Year/Spring Period (6th Semester) course
 | Course                                                                | Course type | 
 |-----------------------------------------------------------------------|-------------|
 | Introduction to Automatic Control Systems                             | Core        | 
+
+#### DGsFuelOilConsumption
+
+Integrated in 5th Year/Spring Period (10th Semester)
+
+| Diploma Thesis                                                        | Research type | 
+|-----------------------------------------------------------------------|---------------|
+| Operational Assessment of Marine Diesel Generators using Data         | Core          | 
 
 <p align="right">
     <a href="#table-of-contents">Back to top</a>  
