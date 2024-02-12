@@ -1,6 +1,6 @@
 # Codes using MATLAB
 
-MATLAB projects
+MATLAB snippets
 
 ## Mathematical Codes using MATLAB
 
