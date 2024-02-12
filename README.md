@@ -80,7 +80,7 @@ Integrated in 5th Year/Spring Period (10th Semester)
 
 | Diploma Thesis                                                        | Research type | 
 |-----------------------------------------------------------------------|---------------|
-| Operational Assessment of Marine Diesel Generators using Data         | Core          | 
+| Operational Assessment of Marine Diesel Generators using Data         | Elective      | 
 
 <p align="right">
     <a href="#table-of-contents">Back to top</a>  
