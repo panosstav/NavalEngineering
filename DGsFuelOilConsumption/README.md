@@ -15,5 +15,7 @@ The auxiliary power of the diesel generators is of major importance for the oper
 ## Files
 
 The repository contains:
-- The Minitab files, which are the results of the multiple linear regressions of the operation of the diesel generators of a large containership belonging to a Greek shipping company
-- The MATLAB code snippets of the diploma thesis
+- The Minitab files, which the correlation of parameters governing the operation of the diesel generators of a large containership belonging to a Greek shipping company
+- The MATLAB code snippets used in the diploma thesis
+
+Thesis URL: [DigitalLibraryNTUA](#https://dspace.lib.ntua.gr/xmlui/handle/123456789/58117)
