@@ -33,8 +33,8 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - Required ECTS points: 300
 - Structure: 62 courses and diploma thesis
 - Grade Point Average (GPA): 7.11/10.00
-- School website: [naval.ntua.gr](http://www.naval.ntua.gr/)
-- University website: [ntua.gr](https://www.ntua.gr/en/)
+- School's website: [naval.ntua.gr](http://www.naval.ntua.gr/)
+- University's website: [ntua.gr](https://www.ntua.gr/en/)
 
 --- 
 
