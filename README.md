@@ -32,7 +32,9 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - Class: entrance to the department in 2015
 - Required ECTS points: 300
 - Structure: 62 courses and diploma thesis
-- Website: [naval.ntua.gr](http://www.naval.ntua.gr/)
+- Final grade: 7.11/10.00
+- School website: [naval.ntua.gr](http://www.naval.ntua.gr/)
+- University website: [ntua.gr](https://www.ntua.gr/en/)
 
 --- 
 
