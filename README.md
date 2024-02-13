@@ -1,7 +1,7 @@
 # Diploma in Naval Architecture and Marine Engineering
 Science degree at National Technical University of Athens, Greece
 
-## School of Naval Architecture and Marine Engineering Coding Projects
+## School's of Naval Architecture and Marine Engineering Coding Projects
 
 Welcome to my GitHub repository, where I showcase the projects I completed during my time at the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. This repository serves as a portfolio of my work in this field.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 
 ## Table of Contents
 
-- [School of Naval Architecture and Marine Engineering Coding Projects](#School-of-Naval-Architecture-and-Marine-Engineering-Coding-Projects)
+- [School's of Naval Architecture and Marine Engineering Coding Projects](#School's-of-Naval-Architecture-and-Marine-Engineering-Coding-Projects)
 - [Table of Contents](#Table-of-Contents)
 - [Diploma in Naval Architecture and Marine Engineering](#Diploma-in-Naval-Architecture-and-Marine-Engineering)
 - [Navigation](#Navigation)
