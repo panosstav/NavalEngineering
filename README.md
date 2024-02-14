@@ -28,14 +28,14 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 ## Diploma in Naval Architecture and Marine Engineering
 
 - University: National Technical University of Athens (NTUA)
+- University's website: [ntua.gr](https://www.ntua.gr/en/)
 - Undergraduate: Naval Architecture and Marine Engineering
+- School's website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 - Class: entrance to the department in 2015
 - Required ECTS points: 300
 - Structure: 62 courses and diploma thesis
-- Cumulative Grade Point Average: 7.11/10.00
 - Diploma thesis grade: 10.00/10.00
-- School's website: [naval.ntua.gr](http://www.naval.ntua.gr/)
-- University's website: [ntua.gr](https://www.ntua.gr/en/)
+- Cumulative Grade Point Average: 7.11/10.00
 
 --- 
 
