@@ -32,7 +32,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - Class: entrance to the department in 2015
 - Required ECTS points: 300
 - Structure: 62 courses and diploma thesis
-- Grade Point Average: 7.11/10.00
+- Grade Point Average: 7.11/10.00 (Very Good)
 - School's website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 - University's website: [ntua.gr](https://www.ntua.gr/en/)
 
