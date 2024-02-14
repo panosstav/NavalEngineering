@@ -20,5 +20,5 @@ The repository contains:
 
 ## Remarks
 
-- The company's noon reports are not shown, due to GDPR restrictions.
+- The company's noon reports are not shown, due to GDPR restrictions
 - The diploma thesis URL is the following link: [thesis](https://dspace.lib.ntua.gr/xmlui/handle/123456789/58117) (translation process - under construction)
