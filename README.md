@@ -58,41 +58,41 @@ In this section, some details about the timeline of the projects are provided.
 
 Integrated in 1nd Year/Winter Period (1st Semester) course
 
-| Course                                                             | Course type | 
+| Course                                                             | Course type |
 |--------------------------------------------------------------------|-------------|
-| Programming using MATLAB                                           | Core        | 
+| Programming using MATLAB                                           | Core        |
 
 #### CodesUsingFORTRAN
 
-Integrated in 2nd Year/Spring Period (4th Semester) course
+Integrated in 1st Year/Spring Period (2nd Semester) course
 
-| Course                                                             | Course type |  Grade    |
-|--------------------------------------------------------------------|-------------|------------
-| FORTRAN and Object-Oriented Programming                            | Core        |   6       |
+| Course                                                             | Course type |
+|--------------------------------------------------------------------|-------------|
+| FORTRAN and Object-Oriented Programming                            | Core        |
 
 #### MarinePowerGenerators
 
 Integrated in 2nd Year/Spring Period (4th Semester) course
 
-| Course                                                                                                                      | Course type | 
-|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| Electrotechnical Applications and Electrical Laboratory for Naval Architects and Marine Engineers                           | Core        | 
+| Course                                                                                                      | Course type |
+|-------------------------------------------------------------------------------------------------------------|-------------|
+| Electrotechnical Applications and Electrical Laboratory for Naval Architects and Marine Engineers           | Core        |
 
 #### ControlSystemAnalysis
 
 Integrated in 3rd Year/Spring Period (6th Semester) course
 
-| Course                                                                | Course type | 
+| Course                                                                | Course type |
 |-----------------------------------------------------------------------|-------------|
-| Introduction to Automatic Control Systems                             | Core        | 
+| Introduction to Automatic Control Systems                             | Core        |
 
 #### DGsFuelOilConsumption
 
 Integrated in 5th Year/Spring Period (10th Semester)
 
-| Diploma Thesis                                                        | Research type | 
+| Diploma Thesis                                                        | Research type |
 |-----------------------------------------------------------------------|---------------|
-| Operational Assessment of Marine Diesel Generators using Data         | Elective      | 
+| Operational Assessment of Marine Diesel Generators using Data         | Elective      |
 
 <p align="right">
     <a href="#table-of-contents">Back to top</a>  
