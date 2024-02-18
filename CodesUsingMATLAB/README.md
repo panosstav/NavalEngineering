@@ -8,4 +8,4 @@ This repository contains MATLAB scripts and functions for solving various mathem
 
 ## Usage
 
-Each MATLAB script or function comes with detailed comments explaining its purpose, input arguments, and output. To use a particular script or function, simply download the corresponding file and run it in MATLAB. Adjust the input parameters as needed for your specific problem.
+Each ".m" script or function comes with detailed comments explaining its purpose, input arguments, and output. To use a particular script or function, simply download the corresponding file and run it in MATLAB. Adjust the input parameters as needed for your specific problem.
