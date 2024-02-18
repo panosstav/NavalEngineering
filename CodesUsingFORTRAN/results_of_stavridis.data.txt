@@ -1,0 +1,4 @@
+ Number of valid data:           8
+ Number of missing data:           2
+ Mean value:     9008.00
+ Standard deviation:     26598.2
