@@ -8,4 +8,4 @@ This repository contains FORTRAN scripts and functions for solving various mathe
 
 ## Usage
 
-Each ".f95" script or function comes with detailed comments explaining its purpose, input arguments, and output. To use a particular script or function, simply download the corresponding file and run it in FTN95. Adjust the input parameters as needed for your specific problem.
+Each ".f95" script or function comes with detailed comments explaining its purpose, input arguments, and output. To use a particular script or function, simply download the corresponding file and run it in Silverfrost FTN95. Adjust the input parameters as needed for your specific problem.
