@@ -17,6 +17,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - [Navigation](#Navigation)
   * [Projects](#Projects)
     + [CodesUsingMATLAB](#CodesUsingMATLAB)
+    + [CodesUsingFORTRAN](#CodesUsingFORTRAN)
     + [MarinePowerGenerators](#MarinePowerGenerators)
     + [ControlSystemAnalysis](#ControlSystemAnalysis)
     + [DGsFuelOilConsumption](#DGsFuelOilConsumption)
@@ -60,6 +61,14 @@ Integrated in 1nd Year/Winter Period (1st Semester) course
 | Course                                                             | Course type | 
 |--------------------------------------------------------------------|-------------|
 | Programming using MATLAB                                           | Core        | 
+
+#### CodesUsingFORTRAN
+
+Integrated in 2nd Year/Spring Period (4th Semester) course
+
+| Course                                                             | Course type |  Grade    |
+|--------------------------------------------------------------------|-------------|------------
+| FORTRAN and Object-Oriented Programming                            | Core        |   6       |
 
 #### MarinePowerGenerators
 
