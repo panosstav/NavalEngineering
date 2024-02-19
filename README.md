@@ -36,7 +36,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - Required ECTS points: 300
 - Structure: 62 courses and diploma thesis
 - Diploma thesis grade: 10.00/10.00
-- CGPA: 7.11/10.00
+- GPA: 7.11/10.00
 
 --- 
 
