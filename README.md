@@ -33,7 +33,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 - University: National Technical University of Athens
 - University's website: [ntua.gr](https://www.ntua.gr/en/)
 - Class: entrance to the department in 2015
-- Department: Naval Architecture and Marine Engineering
+- School: Naval Architecture and Marine Engineering
 - School's website: [naval.ntua.gr](http://www.naval.ntua.gr/)
 - Structure: 62 courses and diploma thesis
 - Diploma thesis grade: 10.00/10.00
