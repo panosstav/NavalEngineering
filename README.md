@@ -28,6 +28,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 
 ## Diploma in Naval Architecture and Marine Engineering
 
+- Diploma: Engineer's degree, Diplom-Ingenieur Equivalent
 - University: National Technical University of Athens
 - University's website: [ntua.gr](https://www.ntua.gr/en/)
 - Undergraduate: Naval Architecture and Marine Engineering
