@@ -28,7 +28,7 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 
 ## Diploma in Naval Architecture and Marine Engineering
 
-- Diploma: Engineer's degree/Dipl.-Ing. equivalent
+- Diploma: Engineer's degree (Dipl.-Ing. equivalent)
 - Required ECTS points: 300
 - University: National Technical University of Athens
 - University's website: [ntua.gr](https://www.ntua.gr/en/)
