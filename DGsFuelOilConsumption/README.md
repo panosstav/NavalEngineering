@@ -6,7 +6,7 @@ Partially Minitab/MATLAB project
 
 This project was submitted for the requirements of research carried out in the Ship Design Laboratory of the School of Naval Architecture and Marine Engineering at the National Technical University of Athens. The objective of this project is presented in the "Abstract" section.
 
-![ship-energy-efficiency-design](https://github.com/panosstav/MarineEngineering/assets/143627430/4b8491e1-7de7-4a63-8f4b-ac1436cbecf4)
+![Big_Data](https://github.com/panosstav/NavalEngineering/assets/143627430/bd280d90-4909-45b2-9092-339e0e5aaaca)
 
 ## Project's Abstract
 
