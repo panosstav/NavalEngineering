@@ -1,5 +1,5 @@
 # School of Naval Architecture and Marine Engineering
-This school offers a science diploma in Engineering at the National Technical University of Athens (NTUA) in Greece
+The above mentioned school offers a science diploma in Engineering at the National Technical University of Athens (NTUA) in Greece
 
 ## Naval Architecture and Marine Engineering Coding Projects
 
